@@ -1,4 +1,4 @@
-<img src="./assets/screenshots/BMI.jpg" width="100%">
+<img src="./assets/screenshots/screenshot.jpeg" width="100%">
 
 # BMI Calculator App
 
